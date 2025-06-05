@@ -1,0 +1,8 @@
+2025/05/11-14:48:10.163 6be0 Reusing MANIFEST D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/11-14:48:10.173 6be0 Recovering log #10
+2025/05/11-14:48:10.173 6be0 Level-0 table #12: started
+2025/05/11-14:48:10.454 6be0 Level-0 table #12: 12134 bytes OK
+2025/05/11-14:48:10.455 6be0 Recovering log #12
+2025/05/11-14:48:10.457 6be0 Reusing old log D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000012.log 
+2025/05/11-14:48:10.552 6be0 Delete type=0 #10
+2025/05/11-14:48:10.552 6be0 Delete type=2 #13

@@ -1,0 +1,417 @@
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.AssemblyReference.cache
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\Styles\UserLoginPageStyle.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\Captha.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\DetailsExerInPlan.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\DetailsExersice.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\DetailsTrain.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\ListExer.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\ListSpecExer.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\ListTranPlan.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\MainWindow.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\Profile.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\Registration.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\UserSettings.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\App.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_MarkupCompile.cache
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_MarkupCompile.lref
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\Profile.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\CreateTrainPersonal.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.exe.config
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.exe
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.pdb
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\bin\Debug\EasyCaptcha.Wpf.dll
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\bin\Debug\EasyCaptcha.Wpf.pdb
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\Captha.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\CreateTrainPersonal.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\DetailsExerInPlan.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\DetailsExersice.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\DetailsTrain.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\ListExer.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\ListSpecExer.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\ListTranPlan.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\MainWindow.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\Registration.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\UserSettings.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.g.resources
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.Properties.Resources.resources
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.GenerateResource.cache
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.CoreCompileInputs.cache
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.Up2Date
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.exe
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.pdb
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\CompletedTraining.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\CompletedTraining.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideProducts.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideProducts.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideDetailsProduct.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideListProducts.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideDetailsProduct.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideListProducts.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\Products\AddProducts.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\Products\AddProducts.baml
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.dll
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\axell\source\repos\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.xml
+F:\курсди\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.exe.config
+F:\курсди\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.exe
+F:\курсди\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.pdb
+F:\курсди\FitnesPlan\FitnesPlan\bin\Debug\EasyCaptcha.Wpf.dll
+F:\курсди\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.dll
+F:\курсди\FitnesPlan\FitnesPlan\bin\Debug\EasyCaptcha.Wpf.pdb
+F:\курсди\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.pdb
+F:\курсди\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.xml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.AssemblyReference.cache
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\Styles\UserLoginPageStyle.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\Captha.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\CompletedTraining.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\CreateTrainPersonal.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\DetailsExerInPlan.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\DetailsExersice.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\DetailsTrain.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideDetailsProduct.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideListProducts.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideProducts.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\ListExer.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\ListSpecExer.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\ListTranPlan.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\MainWindow.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\Products\AddProducts.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\Profile.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\Registration.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\UserSettings.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\App.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_MarkupCompile.cache
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_MarkupCompile.lref
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\Captha.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\CompletedTraining.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\CreateTrainPersonal.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\DetailsExerInPlan.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\DetailsExersice.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\DetailsTrain.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideDetailsProduct.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideListProducts.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideProducts.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\ListExer.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\ListSpecExer.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\ListTranPlan.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\MainWindow.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\Products\AddProducts.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\Profile.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\Registration.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\UserSettings.baml
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.g.resources
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.Properties.Resources.resources
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.GenerateResource.cache
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.CoreCompileInputs.cache
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.Up2Date
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.exe
+F:\курсди\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.pdb
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.exe.config
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.exe
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.pdb
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\EasyCaptcha.Wpf.dll
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.dll
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\EasyCaptcha.Wpf.pdb
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.pdb
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.xml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.AssemblyReference.cache
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\Styles\UserLoginPageStyle.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\Captha.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\CompletedTraining.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\CreateTrainPersonal.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\DetailsExerInPlan.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\DetailsExersice.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\DetailsTrain.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideDetailsProduct.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideListProducts.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideProducts.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\ListExer.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\ListSpecExer.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\ListTranPlan.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\MainWindow.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\Products\AddProducts.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\Profile.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\Registration.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\UserSettings.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\App.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_MarkupCompile.cache
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_MarkupCompile.lref
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\Captha.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\CompletedTraining.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\CreateTrainPersonal.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\DetailsExerInPlan.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\DetailsExersice.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\DetailsTrain.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideDetailsProduct.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideListProducts.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideProducts.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\ListExer.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\ListSpecExer.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\ListTranPlan.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\MainWindow.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\Products\AddProducts.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\Profile.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\Registration.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\UserSettings.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.g.resources
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.Properties.Resources.resources
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.GenerateResource.cache
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.CoreCompileInputs.cache
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.Up2Date
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.exe
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.pdb
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\CompletedTrains.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\CompletedTrains.baml
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.dll
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.Wpf.dll
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.pdb
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.xml
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.Wpf.pdb
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.Wpf.xml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_Content.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\Dekstop\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\AddExerExercise.g.cs
+D:\Dekstop\FitnesPlan\FitnesPlan\obj\Debug\AddExerExercise.baml
+F:\FitnesPlan\FitnesPlan\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+F:\FitnesPlan\FitnesPlan\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+F:\FitnesPlan\FitnesPlan\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+F:\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.exe.config
+F:\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.exe
+F:\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.pdb
+F:\FitnesPlan\FitnesPlan\bin\Debug\EasyCaptcha.Wpf.dll
+F:\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.dll
+F:\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.Wpf.dll
+F:\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Core.dll
+F:\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+F:\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+F:\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.dll
+F:\FitnesPlan\FitnesPlan\bin\Debug\EasyCaptcha.Wpf.pdb
+F:\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.pdb
+F:\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.xml
+F:\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.Wpf.pdb
+F:\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.Wpf.xml
+F:\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Core.xml
+F:\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+F:\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+F:\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.pdb
+F:\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.xml
+F:\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.AssemblyReference.cache
+F:\FitnesPlan\FitnesPlan\obj\Debug\Styles\UserLoginPageStyle.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\AddExerExercise.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\Captha.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\CompletedTraining.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\CompletedTrains.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\CreateTrainPersonal.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\DetailsExerInPlan.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\DetailsExersice.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\DetailsTrain.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideDetailsProduct.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideListProducts.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideProducts.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\ListExer.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\ListSpecExer.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\ListTranPlan.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\MainWindow.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\Products\AddProducts.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\Profile.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\Registration.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\UserSettings.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\App.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_Content.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_MarkupCompile.cache
+F:\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_MarkupCompile.lref
+F:\FitnesPlan\FitnesPlan\obj\Debug\AddExerExercise.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\Captha.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\CompletedTraining.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\CompletedTrains.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\CreateTrainPersonal.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\DetailsExerInPlan.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\DetailsExersice.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\DetailsTrain.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideDetailsProduct.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideListProducts.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideProducts.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\ListExer.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\ListSpecExer.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\ListTranPlan.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\MainWindow.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\Products\AddProducts.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\Profile.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\Registration.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\UserSettings.baml
+F:\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.g.resources
+F:\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.Properties.Resources.resources
+F:\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.GenerateResource.cache
+F:\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.CoreCompileInputs.cache
+F:\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.Up2Date
+F:\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.exe
+F:\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.pdb
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.exe.config
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.exe
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.pdb
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\EasyCaptcha.Wpf.dll
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.dll
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.dll
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\EasyCaptcha.Wpf.pdb
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.pdb
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.xml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.xml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\Styles\UserLoginPageStyle.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\AddExerExercise.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\Captha.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\CompletedTraining.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\CompletedTrains.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\CreateTrainPersonal.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\DetailsExerInPlan.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\DetailsExersice.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\DetailsTrain.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideDetailsProduct.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideListProducts.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideProducts.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\ListExer.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\ListSpecExer.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\ListTranPlan.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\Products\AddProducts.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\Profile.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\Registration.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\UserSettings.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_Content.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_MarkupCompile.cache
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_MarkupCompile.lref
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\AddExerExercise.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\Captha.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\CompletedTraining.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\CompletedTrains.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\CreateTrainPersonal.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\DetailsExerInPlan.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\DetailsExersice.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\DetailsTrain.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideDetailsProduct.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideListProducts.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideProducts.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\ListExer.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\ListSpecExer.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\ListTranPlan.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\Products\AddProducts.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\Profile.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\Registration.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\UserSettings.baml
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.g.resources
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.Properties.Resources.resources
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.CopyComplete
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.exe
+C:\Users\student\Desktop\Михайленко Олег\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.pdb
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.exe.config
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.exe
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\FitnesPlan.pdb
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\EasyCaptcha.Wpf.dll
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.dll
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.Wpf.dll
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.dll
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\EasyCaptcha.Wpf.pdb
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.pdb
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.xml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.Wpf.pdb
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\LiveCharts.Wpf.xml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.pdb
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\WpfAnimatedGif.xml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.AssemblyReference.cache
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Styles\UserLoginPageStyle.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Captha.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideDetailsProduct.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideProducts.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\MainWindow.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Products\AddProducts.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Profile.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Registration.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\UserSettings.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\App.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_Content.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_MarkupCompile.cache
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan_MarkupCompile.lref
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Captha.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideDetailsProduct.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Guide\GuideProducts.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\MainWindow.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Products\AddProducts.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Profile.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Registration.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\UserSettings.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.g.resources
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.Properties.Resources.resources
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.GenerateResource.cache
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.CoreCompileInputs.cache
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.csproj.Up2Date
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.exe
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\FitnesPlan.pdb
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Products\EditExercise.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Products\EditExercise.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Products\EditProduct.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Products\EditProduct.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\ControlzEx.dll
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\ControlzEx.pdb
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\ControlzEx.xml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Exercise\AddExerExercise.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Training\CompletedTraining.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Training\CompletedTrains.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Training\CreateTrainPersonal.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Exercise\DetailsExerInPlan.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Exercise\DetailsExersice.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Training\DetailsTrain.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Exercise\ListExer.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Training\ListTranPlan.g.cs
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Exercise\AddExerExercise.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Training\CompletedTraining.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Training\CompletedTrains.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Training\CreateTrainPersonal.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Exercise\DetailsExerInPlan.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Exercise\DetailsExersice.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Training\DetailsTrain.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Exercise\ListExer.baml
+D:\Dekstop\fit\FitnesPlan\FitnesPlan\obj\Debug\Training\ListTranPlan.baml

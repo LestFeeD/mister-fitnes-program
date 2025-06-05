@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dekstop\\fit\\FitnesPlan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\training\\detailstrain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\training\\detailstrain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\training\\listtranplan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\training\\listtranplan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|d:\\dekstop\\fit\\fitnesplan\\fitnesplan\\captha.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\captha.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|d:\\dekstop\\fit\\fitnesplan\\fitnesplan\\training\\listtranplan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\training\\listtranplan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\products\\editexercise.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\products\\editexercise.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\guide\\guideproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\guide\\guideproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\guide\\guidedetailsproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\guide\\guidedetailsproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\training\\completedtraining.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\training\\completedtraining.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\exercise\\detailsexersice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\exercise\\detailsexersice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\usersettings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\usersettings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\pastselecteddatetobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\pastselecteddatetobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\styles\\userloginpagestyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\styles\\userloginpagestyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\products\\addproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\products\\addproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\guide\\guideproducts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\guide\\guideproducts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\products\\addproducts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\products\\addproducts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\products\\editexercise.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\products\\editexercise.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\products\\editproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\products\\editproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\usersettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\usersettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\dbconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\dbconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\captha.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\captha.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\guide\\guidedetailsproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\guide\\guidedetailsproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\products\\editproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\products\\editproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\booltoinversevisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\booltoinversevisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|D:\\Dekstop\\fit\\FitnesPlan\\fitnesplan\\itemheightconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A377F9DF-66A7-4302-918F-562C035182F5}|FitnesPlan\\FitnesPlan.csproj|solutionrelative:fitnesplan\\itemheightconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\ListExer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\ListExer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\ListExer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\ListExer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CompletedTrains.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\CompletedTrains.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\AddExerExercise.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\AddExerExercise.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CompletedTraining.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\CompletedTraining.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsTrain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\DetailsTrain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsExerInPlan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\DetailsExerInPlan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsExersice.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\DetailsExersice.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\ListTranPlan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\ListTranPlan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\ListTranPlan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\ListTranPlan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\AddExerExercise.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\AddExerExercise.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CreateTrainPersonal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\CreateTrainPersonal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsExersice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\DetailsExersice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsTrain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\DetailsTrain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsExerInPlan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\DetailsExerInPlan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CompletedTrains.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\CompletedTrains.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CreateTrainPersonal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\CreateTrainPersonal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CompletedTraining.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnesPlan\\CompletedTraining.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 269,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserSettings.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\UserSettings.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\UserSettings.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\UserSettings.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\UserSettings.xaml.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAADwv9EAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:20:46.903Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListTranPlan.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Training\\ListTranPlan.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\Training\\ListTranPlan.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Training\\ListTranPlan.xaml.cs*",
+              "RelativeToolTip": "FitnesPlan\\Training\\ListTranPlan.xaml.cs*",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAUwM8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:27:56.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Captha.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Captha.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\Captha.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Captha.xaml",
+              "RelativeToolTip": "FitnesPlan\\Captha.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T16:23:36.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditExercise.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Products\\EditExercise.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\Products\\EditExercise.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Products\\EditExercise.xaml",
+              "RelativeToolTip": "FitnesPlan\\Products\\EditExercise.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T17:17:57.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwFAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:21:38.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Registration.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Registration.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\Registration.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Registration.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\Registration.xaml.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAYwIEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:13:46.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\Profile.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Profile.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\Profile.xaml.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAwwLQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:21:03.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListTranPlan.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Training\\ListTranPlan.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\Training\\ListTranPlan.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Training\\ListTranPlan.xaml",
+              "RelativeToolTip": "FitnesPlan\\Training\\ListTranPlan.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T16:01:00.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailsTrain.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Training\\DetailsTrain.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\Training\\DetailsTrain.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Training\\DetailsTrain.xaml",
+              "RelativeToolTip": "FitnesPlan\\Training\\DetailsTrain.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T22:17:32.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\packages.config",
+              "RelativeDocumentMoniker": "FitnesPlan\\packages.config",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\packages.config",
+              "RelativeToolTip": "FitnesPlan\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-21T20:39:35.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GuideProducts.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Guide\\GuideProducts.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\Guide\\GuideProducts.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Guide\\GuideProducts.xaml",
+              "RelativeToolTip": "FitnesPlan\\Guide\\GuideProducts.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T10:51:35.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GuideDetailsProduct.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Guide\\GuideDetailsProduct.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\Guide\\GuideDetailsProduct.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Guide\\GuideDetailsProduct.xaml",
+              "RelativeToolTip": "FitnesPlan\\Guide\\GuideDetailsProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T11:14:25.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DbConnectionHelper.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DbConnectionHelper.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\DbConnectionHelper.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DbConnectionHelper.cs",
+              "RelativeToolTip": "FitnesPlan\\DbConnectionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:19:52.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CompletedTraining.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CompletedTraining.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\CompletedTraining.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CompletedTraining.xaml",
+              "RelativeToolTip": "FitnesPlan\\CompletedTraining.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-20T10:24:39.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserSettings.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\UserSettings.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\UserSettings.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\UserSettings.xaml",
+              "RelativeToolTip": "FitnesPlan\\UserSettings.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-20T09:20:44.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Registration.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Registration.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\Registration.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Registration.xaml",
+              "RelativeToolTip": "FitnesPlan\\Registration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T14:33:21.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditExercise.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Products\\EditExercise.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\Products\\EditExercise.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Products\\EditExercise.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\Products\\EditExercise.xaml.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAiwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:29:02.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Profile.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\Profile.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Profile.xaml",
+              "RelativeToolTip": "FitnesPlan\\Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T12:49:39.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetailsExersice.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Exercise\\DetailsExersice.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\Exercise\\DetailsExersice.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Exercise\\DetailsExersice.xaml",
+              "RelativeToolTip": "FitnesPlan\\Exercise\\DetailsExersice.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T22:17:36.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompletedTraining.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Training\\CompletedTraining.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\Training\\CompletedTraining.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Training\\CompletedTraining.xaml",
+              "RelativeToolTip": "FitnesPlan\\Training\\CompletedTraining.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T22:20:57.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GuideProducts.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Guide\\GuideProducts.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\Guide\\GuideProducts.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Guide\\GuideProducts.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\Guide\\GuideProducts.xaml.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAowA8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:51:04.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserLoginPageStyle.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Styles\\UserLoginPageStyle.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\Styles\\UserLoginPageStyle.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Styles\\UserLoginPageStyle.xaml",
+              "RelativeToolTip": "FitnesPlan\\Styles\\UserLoginPageStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T17:24:21.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddProducts.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Products\\AddProducts.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\Products\\AddProducts.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Products\\AddProducts.xaml",
+              "RelativeToolTip": "FitnesPlan\\Products\\AddProducts.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T12:16:39.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EditProduct.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Products\\EditProduct.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\Products\\EditProduct.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Products\\EditProduct.xaml",
+              "RelativeToolTip": "FitnesPlan\\Products\\EditProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T18:46:09.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CompletedTrains.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CompletedTrains.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\CompletedTrains.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CompletedTrains.xaml",
+              "RelativeToolTip": "FitnesPlan\\CompletedTrains.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T18:51:54.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\App.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\App.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\App.xaml",
+              "RelativeToolTip": "FitnesPlan\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T15:27:36.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DetailsExerInPlan.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsExerInPlan.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\DetailsExerInPlan.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsExerInPlan.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\DetailsExerInPlan.xaml.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAowLUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:15:15.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DetailsExersice.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsExersice.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\DetailsExersice.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsExersice.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\DetailsExersice.xaml.cs",
+              "ViewState": "AgIAAOIBAAAAAAAAAAAAABUBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:15:56.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ListTranPlan.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\ListTranPlan.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\ListTranPlan.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\ListTranPlan.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\ListTranPlan.xaml.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:22:47.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ListTranPlan.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\ListTranPlan.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\ListTranPlan.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\ListTranPlan.xaml",
+              "RelativeToolTip": "FitnesPlan\\ListTranPlan.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T14:33:53.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditProduct.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Products\\EditProduct.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\Products\\EditProduct.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Products\\EditProduct.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\Products\\EditProduct.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwEgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:53:10.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\MainWindow.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\MainWindow.xaml",
+              "RelativeToolTip": "FitnesPlan\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T14:33:45.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddExerExercise.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\AddExerExercise.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\AddExerExercise.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\AddExerExercise.xaml",
+              "RelativeToolTip": "FitnesPlan\\AddExerExercise.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-02T16:08:26.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PastSelectedDateToBrushConverter.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\PastSelectedDateToBrushConverter.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\PastSelectedDateToBrushConverter.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\PastSelectedDateToBrushConverter.cs",
+              "RelativeToolTip": "FitnesPlan\\PastSelectedDateToBrushConverter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:18:16.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ListExer.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\ListExer.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\ListExer.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\ListExer.xaml",
+              "RelativeToolTip": "FitnesPlan\\ListExer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T15:21:45.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AddExerExercise.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\AddExerExercise.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\AddExerExercise.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\AddExerExercise.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\AddExerExercise.xaml.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:25:11.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GuideDetailsProduct.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Guide\\GuideDetailsProduct.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\Guide\\GuideDetailsProduct.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Guide\\GuideDetailsProduct.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\Guide\\GuideDetailsProduct.xaml.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAqwG4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:35:19.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreateTrainPersonal.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CreateTrainPersonal.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\CreateTrainPersonal.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CreateTrainPersonal.xaml",
+              "RelativeToolTip": "FitnesPlan\\CreateTrainPersonal.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T15:12:50.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DetailsExersice.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsExersice.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\DetailsExersice.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsExersice.xaml",
+              "RelativeToolTip": "FitnesPlan\\DetailsExersice.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T14:35:50.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DetailsTrain.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsTrain.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\DetailsTrain.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsTrain.xaml",
+              "RelativeToolTip": "FitnesPlan\\DetailsTrain.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T14:34:24.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ListExer.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\ListExer.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\ListExer.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\ListExer.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\ListExer.xaml.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAIwHcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:22:13.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CreateTrainPersonal.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CreateTrainPersonal.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\CreateTrainPersonal.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CreateTrainPersonal.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\CreateTrainPersonal.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwKIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:17:38.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CompletedTraining.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CompletedTraining.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\CompletedTraining.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CompletedTraining.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\CompletedTraining.xaml.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:25:44.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Captha.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Captha.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\Captha.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Captha.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\Captha.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:24:05.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\App.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\App.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\App.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vxEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:27:54.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\App.config",
+              "RelativeDocumentMoniker": "FitnesPlan\\App.config",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\App.config",
+              "RelativeToolTip": "FitnesPlan\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-10T14:04:30.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CompletedTrains.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CompletedTrains.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\CompletedTrains.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\CompletedTrains.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\CompletedTrains.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwCYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:55:21.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddProducts.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Products\\AddProducts.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\Products\\AddProducts.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\Products\\AddProducts.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\Products\\AddProducts.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:17:46.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DetailsTrain.xaml.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsTrain.xaml.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\DetailsTrain.xaml.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsTrain.xaml.cs",
+              "RelativeToolTip": "FitnesPlan\\DetailsTrain.xaml.cs",
+              "ViewState": "AgIAANEBAAAAAAAAAAAYwPYBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:58:43.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DetailsExerInPlan.xaml",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsExerInPlan.xaml",
+              "RelativeDocumentMoniker": "FitnesPlan\\DetailsExerInPlan.xaml",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\DetailsExerInPlan.xaml",
+              "RelativeToolTip": "FitnesPlan\\DetailsExerInPlan.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-19T19:02:59.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BoolToInverseVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\BoolToInverseVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\BoolToInverseVisibilityConverter.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\BoolToInverseVisibilityConverter.cs",
+              "RelativeToolTip": "FitnesPlan\\BoolToInverseVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:47:18.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ItemHeightConverter.cs",
+              "DocumentMoniker": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\ItemHeightConverter.cs",
+              "RelativeDocumentMoniker": "FitnesPlan\\ItemHeightConverter.cs",
+              "ToolTip": "D:\\Dekstop\\fit\\FitnesPlan\\FitnesPlan\\ItemHeightConverter.cs",
+              "RelativeToolTip": "FitnesPlan\\ItemHeightConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:02:30.606Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 107,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

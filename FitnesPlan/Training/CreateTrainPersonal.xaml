@@ -1,0 +1,226 @@
+﻿<Window x:Class="FitnesPlan.CreateTrainPersonal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FitnesPlan"
+        mc:Ignorable="d"
+        Title="MisterFitnes" Height="700" Width="1000" Background="AntiqueWhite" WindowState="Maximized" Loaded="Window_Loaded" >
+    <Window.Resources>
+        <ResourceDictionary>
+
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Styles/UserLoginPageStyle.xaml" />
+
+            </ResourceDictionary.MergedDictionaries>
+
+        </ResourceDictionary>
+
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Border CornerRadius="10" Height="30" Width="30">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#7f7cf1" Offset="0"/>
+                        <GradientStop Color="#d3b7ff" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <TextBlock Text="MF" Foreground="White" FontSize="15" FontWeight="SemiBold"
+                                   TextAlignment="Center" VerticalAlignment="Center"/>
+            </Border>
+
+            <StackPanel Margin="5 0 0 0" VerticalAlignment="Center">
+                <TextBlock Text="MisterFitnes" FontSize="15" 
+                               Margin="0 0 0 5" Foreground="Black"
+                               FontWeight="SemiBold"/>
+            </StackPanel>
+        </StackPanel>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <StackPanel Grid.Row="1" Background="#383638">
+            <Viewbox>
+
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+
+                    </Grid.RowDefinitions>
+                    <Button x:Name="ProfileBut" Style="{StaticResource menuButton}" Click="ProfileBut_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Профиль" Style="{StaticResource menuButtonText}" Margin="53 0 0 0" HorizontalAlignment="Center" FontWeight="SemiBold" FontSize="17"/>
+                        </StackPanel>
+                    </Button>
+
+                    <Button x:Name="ReadyTrainPlanBut" Style="{StaticResource menuButton}" Grid.Row="1" Click="ReadyTrainPlanBut_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Готовые планы" Style="{StaticResource menuButtonText}" Margin="30 0 0 0"  HorizontalAlignment="Center" FontWeight="SemiBold" FontSize="17"/>
+                        </StackPanel>
+                    </Button>
+
+                    <Button x:Name="FormNewPlanBut" Style="{StaticResource menuButton}" Grid.Row="2" Click="FormNewPlanBut_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="    Составить план" Style="{StaticResource menuButtonText}" Margin="10 0 0 0"  HorizontalAlignment="Center" FontWeight="SemiBold" FontSize="17"/>
+                        </StackPanel>
+                    </Button>
+
+                    <Button x:Name="GuideProductsBut" Style="{StaticResource menuButton}" Grid.Row="3" Click="GuideProductsBut_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Справочник продуктов" Style="{StaticResource menuButtonText}" Margin="0 0 0 0"   HorizontalAlignment="Center" FontWeight="SemiBold" FontSize="17"/>
+                        </StackPanel>
+                    </Button>
+                    <Button x:Name="AddNewPlanBut" Style="{StaticResource menuButton}" Grid.Row="5" Click="AddNewPlanBut_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Добавить продукт" Style="{StaticResource menuButtonText}" Margin="20 0 0 0"  HorizontalAlignment="Center" FontWeight="SemiBold" FontSize="17"/>
+                        </StackPanel>
+                    </Button>
+                    <Button x:Name="ListExercise" Style="{StaticResource menuButton}" Grid.Row="6" Click="ListExercise_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="   Список упражнений" Style="{StaticResource menuButtonText}" Margin="0 0 0 0"  Width="200" HorizontalAlignment="Center" FontWeight="SemiBold" FontSize="17"/>
+                        </StackPanel>
+                    </Button>
+                    <Button x:Name="AddNewExercise" Style="{StaticResource menuButton}" Grid.Row="7" Click="AddNewExercise_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text=" Добавить упражнение" Style="{StaticResource menuButtonText}" Margin="0 0 0 0"  HorizontalAlignment="Center" FontWeight="SemiBold" FontSize="17"/>
+                        </StackPanel>
+                    </Button>
+                </Grid>
+            </Viewbox>
+        </StackPanel>
+        <ScrollViewer Grid.Row="2" Grid.Column="2" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto" x:Name="Scrow">
+                <StackPanel >
+                    <Grid HorizontalAlignment="Center">
+                    
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="AUTO"></RowDefinition>
+                            <RowDefinition Height="AUTO"></RowDefinition>
+                            <RowDefinition Height="AUTO"></RowDefinition>
+
+                        </Grid.RowDefinitions>
+                        <StackPanel Grid.Column="1" Grid.Row="0">
+                            <StackPanel>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"></ColumnDefinition>
+                                        <ColumnDefinition Width="Auto"></ColumnDefinition>
+                                        <ColumnDefinition Width="Auto"></ColumnDefinition>
+                                        <ColumnDefinition Width="Auto"></ColumnDefinition>
+
+                                    </Grid.ColumnDefinitions>
+                                    <Label  Grid.Column="0" FontWeight="SemiBold" FontSize="30" Margin="0 0 17 0">Название тренировки</Label>
+                                    <Border 
+ Grid.Column="1" Style="{StaticResource textBoxBorder}" Width="280" Height="40"  VerticalAlignment="Top"  Grid.ColumnSpan="2"
+>
+
+                                        <Grid Margin = "3">
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*"/>
+                                            </Grid.ColumnDefinitions>
+                                            <TextBox 
+            Grid.Column="1"
+            x:Name = "txtNameTrain" Text="{Binding nameTrainCreate, UpdateSourceTrigger=PropertyChanged}" FontWeight="SemiBold" FontSize="15"
+            Style="{StaticResource credentialTextBox}" MaxLength="35" TextWrapping="Wrap" AcceptsReturn="True" VerticalContentAlignment="Top"    HorizontalContentAlignment="Left"/>
+                                        </Grid>
+                                    </Border >
+                                </Grid>
+
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel Grid.Row="1">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                                <ColumnDefinition  Width="Auto"></ColumnDefinition>
+                                <ColumnDefinition  Width="Auto"></ColumnDefinition>
+
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"></RowDefinition>
+                                <RowDefinition Height="Auto"></RowDefinition>
+                                <RowDefinition Height="Auto"></RowDefinition>
+                                <RowDefinition Height="Auto"></RowDefinition>
+                                <RowDefinition Height="Auto"></RowDefinition>
+                                <RowDefinition Height="Auto"></RowDefinition>
+
+                            </Grid.RowDefinitions>
+
+                                <Label  Grid.ColumnSpan="2" Grid.Row="1" Grid.Column="0" FontWeight="SemiBold" FontSize="30" HorizontalAlignment="Left" >Описание тренировки</Label>
+
+                                <Border 
+ Grid.Column="1" Style="{StaticResource textBoxBorder}" Width="280" Height="100"  VerticalAlignment="Top" Margin="10" Grid.Row="1" Grid.ColumnSpan="2"
+>
+                                    <Grid Margin = "3">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <TextBox 
+            Grid.Column="1"
+            x:Name = "txtDescTrain" Text="{Binding nameTrainCreate, UpdateSourceTrigger=PropertyChanged}" FontWeight="SemiBold" FontSize="15" Height="100"
+            Style="{StaticResource credentialTextBox}" MaxLength="90" TextWrapping="Wrap" AcceptsReturn="True" VerticalContentAlignment="Top"    HorizontalContentAlignment="Left"/>
+                                    </Grid>
+                                </Border >
+
+                            <Button x:Name="ChoicePhoto" Width="180" Height="60" Grid.Column="3" Margin="0 0 0 0" FontSize="16" Click="ChoicePhoto_Click" Grid.Row="2" Style="{StaticResource primaryButton}" Command="{Binding SubmitCommand}">Загрузить фото</Button>
+                            <Label x:Name="GroupMuscl" Grid.Column="0" Grid.Row="2" FontWeight="SemiBold" FontSize="30" Margin="0 0 17 0">Группа мышц</Label>
+
+                            <ComboBox Grid.Row="2" Grid.Column="1" x:Name="TrainTypeComboBox" Width="230" Height="50" BorderBrush="#5A9BD5" Background="#E8F4FC" BorderThickness="2" DisplayMemberPath="наименование" SelectedValuePath="ид_тип_упражнения" FontWeight="Bold" FontSize="17"/>
+
+                            <Label Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="1" FontWeight="SemiBold" FontSize="30">Список упражнений</Label>
+                            <Button x:Name="Perform" Height="60" Width="200" FontSize="18" Click="Perform_Click" Grid.Row="3" Style="{StaticResource primaryButton}" Command="{Binding SubmitCommand}">Готово</Button>
+                            <Button x:Name="DeleteTrain" Width="200" Height="60" Grid.Column="3" FontSize="18" Click="DeleteTrain_Click" Grid.Row="3" Style="{StaticResource primaryButton}" Command="{Binding SubmitCommand}">Сбросить упражнения</Button>
+
+                            <Button x:Name="ChooseExer" Height="60" Grid.Row="3" Grid.Column="1" FontSize="18" Width="200" Click="ChooseExer_Click" Style="{StaticResource primaryButton}" Command="{Binding SubmitCommand}" Margin="0 30 60 0">Выбрать упражнение</Button>
+                                <ItemsControl x:Name="ExerciseList" Grid.Column="0" Grid.Row="5" Grid.ColumnSpan="2">
+                                    <ItemsControl.ItemsPanel>
+                                        <ItemsPanelTemplate>
+                                            <StackPanel Orientation="Vertical" />
+                                        </ItemsPanelTemplate>
+                                    </ItemsControl.ItemsPanel>
+                                    <ItemsControl.ItemTemplate>
+                                        <DataTemplate x:Name="DataProfEm">
+                                        <Border Margin="5"  Background="#FAF0E6" CornerRadius="10" Padding="5" Width="500" Height="120" x:Name="BorderProfEm" HorizontalAlignment="Left"  MouseDown="BorderExerUserEm_MouseDown" Tag="{Binding idExer}">
+                                                <StackPanel  x:Name="StackProfEm" >
+                                                    <Grid>
+                                                        <Grid.ColumnDefinitions>
+                                                            <ColumnDefinition Width="Auto"></ColumnDefinition>
+                                                            <ColumnDefinition></ColumnDefinition>
+                                                        </Grid.ColumnDefinitions>
+                                                    <Border x:Name="ExerIm" Grid.Column="0" BorderBrush="LightGray"  Width="110" Height="110" Padding="5" HorizontalAlignment="Left">
+                                                            <Image Source="{Binding Image}" />
+                                                        </Border>
+                                                        <Border x:Name="Exer" BorderBrush="LightGray" Grid.Column="1" Padding="5" HorizontalAlignment="Left" >
+                                                            <TextBlock Text="{Binding NameExer}" FontFamily="Roboto" TextWrapping="Wrap"  FontWeight="Medium" FontSize="21" Foreground="#2B2A2A" HorizontalAlignment="Center" Margin="5 0 0 0" />
+                                                        </Border>
+                                                    </Grid>
+                                                </StackPanel>
+                                            </Border>
+                                        </DataTemplate>
+                                    </ItemsControl.ItemTemplate>
+                                </ItemsControl>
+                            </Grid>
+                        </StackPanel>
+                    </Grid>
+                </StackPanel>
+        </ScrollViewer>
+
+    </Grid>
+</Window>
